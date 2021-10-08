@@ -1,0 +1,30 @@
+.contains{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ccc;
+}
+.center{
+    width: 50%;
+    height: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.container-wrapper{
+    display: flex;
+    margin-left: 20px;
+    justify-content: space-between;
+    align-items: center;
+    
+    padding: 10px;
+}
+.container-btn{
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 10px;
+}
